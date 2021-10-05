@@ -1,0 +1,5 @@
+env/
+geekshop/db.sqlite3
+.idea
+.git
+__pycache__/
